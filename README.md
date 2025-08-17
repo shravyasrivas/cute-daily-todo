@@ -7,7 +7,7 @@ first cute to do list project
 - [ ] c programming lang 🧘‍♀️
 - [x] bath+laundary ✍️
 - [x] singing 🎨
-- [ ] prepare for class tmr
+- [x] prepare for class tmr
 - [x] matlab +ieee login🎶
 
 > “Small steps every day make big changes.” 💛
