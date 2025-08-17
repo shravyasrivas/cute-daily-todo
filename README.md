@@ -4,9 +4,9 @@ first cute to do list project
 
 ## Today’s Tasks:
 - [x] Drink water 💧
-- [ ] Do yoga 🧘‍♀️
-- [ ] Write in journal ✍️
-- [ ] Draw something 🎨
-- [ ] Listen to music 🎶
+- [x] Do yoga 🧘‍♀️
+- [x] Write in journal ✍️
+- [x] Draw something 🎨
+- [x] Listen to music 🎶
 
 > “Small steps every day make big changes.” 💛
