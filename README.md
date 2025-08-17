@@ -3,11 +3,11 @@ first cute to do list project
 # 🌸 My Daily To-Do List 🌸
 
 ## Today’s Tasks:
-- [x] hackathon research💧
-- [x] c programming lang 🧘‍♀️
-- [x] bath+laundary ✍️
-- [x] singing 🎨
-- [x] prepare for class tmr
+- [ ] hackathon research💧
+- [ ] c programming lang 🧘‍♀️
+- [ ] bath+laundary ✍️
+- [ ] singing 🎨
+- [ ] prepare for class tmr
 - [ ] matlab +ieee login🎶
 
 > “Small steps every day make big changes.” 💛
