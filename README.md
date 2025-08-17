@@ -3,7 +3,7 @@ first cute to do list project
 # 🌸 My Daily To-Do List 🌸
 
 ## Today’s Tasks:
-- [ ] hackathon research💧
+- [x] hackathon research💧
 - [x] c programming lang 🧘‍♀️
 - [x] bath+laundary ✍️
 - [x] singing 🎨
