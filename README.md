@@ -3,10 +3,11 @@ first cute to do list project
 # 🌸 My Daily To-Do List 🌸
 
 ## Today’s Tasks:
-- [x] Drink water 💧
-- [x] Do yoga 🧘‍♀️
-- [x] Write in journal ✍️
-- [x] Draw something 🎨
-- [x] Listen to music 🎶
+- [x] hackathon research💧
+- [x] c programming lang 🧘‍♀️
+- [x] bath+laundary ✍️
+- [x] singing 🎨
+- [x] prepare for class tmr
+- [ ] matlab +ieee login🎶
 
 > “Small steps every day make big changes.” 💛
