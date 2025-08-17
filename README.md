@@ -4,7 +4,7 @@ first cute to do list project
 
 ## Today’s Tasks:
 - [ ] hackathon research💧
-- [ ] c programming lang 🧘‍♀️
+- [x] c programming lang 🧘‍♀️
 - [x] bath+laundary ✍️
 - [x] singing 🎨
 - [x] prepare for class tmr
